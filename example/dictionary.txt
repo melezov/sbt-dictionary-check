@@ -1,0 +1,2 @@
+ammount;ERROR;Amount has only one m!
+installment;WARNING;Installment is US spelling, use instalment

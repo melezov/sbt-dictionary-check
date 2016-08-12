@@ -1,0 +1,4 @@
+<plugin>
+  <name>dictionary-check</name>
+  <classname>com.oradian.dictionarycheck.DictionaryCheck</classname>
+</plugin>
